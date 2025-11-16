@@ -19,7 +19,7 @@
   {
     "chainId": 1,
     "tokenAddress": null,
-    "faAddress": "0x357b0b74bc833e95a115ad22604854d6b0fca151cecd94111770e5d6ffc9dc2b",
+    "faAddress": "TFErvTpSfj3WxiM4Siv9E1Kp2kTsJ8nX3a",
     "name": "Tether USD",
     "symbol": "USDt",
     "decimals": 6,
@@ -36,7 +36,7 @@
   {
     "chainId": 1,
     "tokenAddress": null,
-    "faAddress": "0xbae207659db88bea0cbead6da0ed00aac12edcdda169e591cd41c94180b46f3b",
+    "faAddress": "TFErvTpSfj3WxiM4Siv9E1Kp2kTsJ8nX3a",
     "name": "USDC",
     "symbol": "USDC",
     "decimals": 6,
